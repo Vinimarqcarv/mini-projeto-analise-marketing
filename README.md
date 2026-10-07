@@ -97,7 +97,7 @@ O dashboard permite explorar os dados por diferentes perspectivas, incluindo:
 
 🎓 Contexto
 
-Projeto desenvolvido como parte dos estudos e da formação em Análise de Dados.
+Projeto desenvolvido como parte dos estudos e da formação em Análise de Dados na Data Science Academy (DSA).
 
 👨‍💻 Autor
 
