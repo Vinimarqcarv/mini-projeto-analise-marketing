@@ -85,11 +85,15 @@ O dashboard permite explorar os dados por diferentes perspectivas, incluindo:
 
 🛒 Visão do Comportamento de Compra
 
-![](04_Imagens/Visão_Cliente.png)
+![](04_Imagens/Visão_Comportamento_Compra.png)
+
+📣 Visão da Performance das Campanhas
+
+![](04_Imagens/Visão_Performance_Campanhas.png)
 
 🌎 Visão dos Padrões de Compra
 
-📣 Visão da Performance das Campanhas
+![](04_Imagens/Visão_Padrão_Compra.png)
 
 🎓 Contexto
 
