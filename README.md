@@ -99,8 +99,8 @@ O dashboard permite explorar os dados por diferentes perspectivas, incluindo:
 
 Projeto desenvolvido como parte dos estudos e da formação em Análise de Dados na Data Science Academy (DSA).
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-##Vinicius Marques##
+**Vinicius Marques**
 
 Análise e Desenvolvimento de Sistemas | Power BI | Excel | SQL | Análise de Dados
